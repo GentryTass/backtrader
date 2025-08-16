@@ -1,0 +1,2 @@
+date,signal_time,ticker,underlying_price,expiry,strike,call_oi,put_oi,call_iv,put_iv,call_bid,call_ask,put_bid,put_ask,call_volume,put_volume,r,q,source
+2024-06-13,Thu 15:50:00,SPY,540.25,2024-06-14,540,15000,18000,0.22,0.24,1.55,1.60,1.40,1.45,1200,1300,0.045,0.012,OPRA
